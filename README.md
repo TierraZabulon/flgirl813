@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @flgirl813
-- 👀 I’m interested in Web and software development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning Front End...
 - 💞️ I’m looking to collaborate on projects working with Javascript
 
