@@ -21,5 +21,7 @@ const tierra = {
 }
 ```
 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=flgirl813)
+
 💞️ I’m looking to collaborate on projects working with Javascript
 ---
