@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <p><em>FrontEnd Developer Studying Fullstack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-### <img src="![image](https://user-images.githubusercontent.com/59990889/161163387-a0d17e48-6202-4ad2-a15a-0a3fda2c448b.png)" width="50"> A little more about me...  
+###  A little more about me...  
 
 ```javascript
 const tierra = {
