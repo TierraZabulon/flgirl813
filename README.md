@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @flgirl813
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Front End...
-- 💞️ I’m looking to collaborate on projects working with Javascript
+
 
 <!---
 flgirl813/flgirl813 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,5 +22,5 @@ const tierra = {
 ```
 
 
-
+💞️ I’m looking to collaborate on projects working with Javascript
 ---
