@@ -9,17 +9,6 @@ You can click the Preview link to take a look at your changes.
 <p><em>FrontEnd Developer Studying Fullstack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-###  A little more about me...  
-
-```javascript
-const tierra = {
-  pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS],
-  tools: [ Node, Bootstrap],
- 
-
-}
-```
 
 
 💞️ I’m looking to collaborate on projects working with Javascript
