@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <p><em>FrontEnd Developer Studying Fullstack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-### <img src="https://media1.giphy.com/media/l3q2GDh3wQqVWSiGY/giphy.gif?cid=ecf05e470c2wc1b9e7bz7974bc4nl14qtmjteqas98cxc39k&rid=giphy.gif&ct=g" width="50"> A little more about me...  
+### <img src="![image](https://user-images.githubusercontent.com/59990889/161163387-a0d17e48-6202-4ad2-a15a-0a3fda2c448b.png)" width="50"> A little more about me...  
 
 ```javascript
 const tierra = {
