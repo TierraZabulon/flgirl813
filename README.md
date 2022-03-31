@@ -12,10 +12,7 @@ You can click the Preview link to take a look at your changes.
 <p><em>FrontEnd Developer Studying Fullstack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-https://media3.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=ecf05e47afwx9zxo8cvazpn1z8sntp9npu9zmwpdxoy5tyhc&rid=giphy.gif&ct=g
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media1.giphy.com/media/l3q2GDh3wQqVWSiGY/giphy.gif?cid=ecf05e470c2wc1b9e7bz7974bc4nl14qtmjteqas98cxc39k&rid=giphy.gif&ct=g" width="50"> A little more about me...  
 
 ```javascript
 const tierra = {
