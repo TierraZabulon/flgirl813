@@ -27,7 +27,7 @@
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <h3 align="center">TaskDoro</h3>
         <br />
         <a target="_blank" href="http://">
@@ -44,6 +44,28 @@
   </a>
       </p>
         <p><strong>Javascript, Bootstrap, Html, CSS</strong> - Application for keep track of task</p>
+    </td>
+    
+   
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <h3 align="center">Weather Application</h3>
+        <br />
+        <a target="_blank" href="http://">
+            <img src="https://github.com/flgirl813/portfolio/blob/main/resources/Webp.net-gifmaker%20(1).gif" width="100%" alt="task App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=88CDD1&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="http://" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=88CDD1&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, Html, CSS</strong> - Weather Application</p>
     </td>
     
    
