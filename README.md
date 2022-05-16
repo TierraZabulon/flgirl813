@@ -3,7 +3,7 @@
 
 ![Software Engineer @100Devs](https://github.com/flgirl813/portfolio/blob/main/resources/Tierra%20Zabulon%20(1).png?raw=true)
 
-(https://photos.app.goo.gl/i5ZawUiWwmHJrmHz8)
+
 
 <h1 align="center">Hi 👋, I'm Tierra Zabulon</h1>
 <h3 align="center">A passionate developer from Florida</h3>
@@ -31,16 +31,16 @@
       <h3 align="center">TaskDoro</h3>
         <br />
         <a target="_blank" href="http://">
-            <img src="images/gif1.gif" width="100%" alt="task App"/>
+            <img src="https://github.com/flgirl813/final-project/blob/main/Webp.net-gifmaker.gif" width="100%" alt="task App"/>
         </a>
         <br />
         <p align="center">
           
   <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=88CDD1&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="http://" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ffffff&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=88CDD1&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>Javascript, Bootstrap, Html, CSS</strong> - Application for keep track of task</p>
