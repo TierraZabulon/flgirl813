@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=88CDD1&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Html, CSS</strong> - Application for keep track of task</p>
+        <p><strong>Javascript, Bootstrap, Html, CSS</strong> - Application for keeping track of task</p>
     </td>
     
    
