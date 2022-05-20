@@ -30,7 +30,7 @@
     <td width="25%" valign="top">
       <h3 align="center">TaskDoro</h3>
         <br />
-        <a target="_blank" href="http://">
+        <a target="_blank" href="http://net">
             <img src="https://github.com/flgirl813/final-project/blob/main/Webp.net-gifmaker.gif" width="100%" alt="task App"/>
         </a>
         <br />
