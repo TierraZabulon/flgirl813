@@ -10,7 +10,7 @@
 
 
 
-  <p>🔭 I’m currently working on Dispatch App that allows drivers to keep track of routes for delivery </p>
+  <p>🔭 I’m currently working on Dispatch App that allows drivers to keep track of routes for delivery. </p>
 <p>📫 How to reach me tierrazabulon@gmail.com</p>
 
 <h3 align="center">Connect with me:</h3>
