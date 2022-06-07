@@ -48,10 +48,11 @@
   </a>
       </p>
         
-    </td>
+  
     
    
   </tr>
+    </td>
   <tr>
     <td width="25%" valign="top">
       <h3 align="center">Weather App</h3>
@@ -71,11 +72,11 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=88CDD1&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
     
-    </td>
+   
     
    
   </tr>
-  
+   </td>
   
   <tr>
     <td width="25%" valign="top">
