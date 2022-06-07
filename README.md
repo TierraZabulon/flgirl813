@@ -32,6 +32,8 @@
     <td width="25%" valign="top">
       <h3 align="center">TaskDoro</h3>
         <br />
+      <p align="center"><strong>Javascript, Html, CSS, Bootstrap</strong> </p>
+ <p align="center">  Application for keeping track of task</p>
         <a target="_blank" href="http://net">
             <img src="https://github.com/flgirl813/final-project/blob/main/Webp.net-gifmaker.gif" width="100%" alt="task App"/>
         </a>
@@ -45,15 +47,17 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=88CDD1&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Html, CSS</strong> - Application for keeping track of task</p>
+        
     </td>
     
    
   </tr>
   <tr>
     <td width="25%" valign="top">
-      <h3 align="center">Weather Application</h3>
+      <h3 align="center">Weather App</h3>
         <br />
+      <p align="center"><strong>Javascript, Html, CSS, Weather API, Axios</strong> </p>
+ <p align="center"> Utilized...</p>
         <a target="_blank" href="http://">
             <img src="https://github.com/flgirl813/portfolio/blob/main/resources/Webp.net-gifmaker%20(1).gif" width="100%" alt="task App"/>
         </a>
@@ -66,8 +70,7 @@
   <a href="http://" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=88CDD1&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
-      </p>
-        <p><strong>Javascript, Html, CSS</strong> - Weather Application</p>
+    
     </td>
     
    
@@ -76,10 +79,13 @@
   
   <tr>
     <td width="25%" valign="top">
-      <h3 align="center">Weather Application</h3>
+      <h3 align="center">Life Path</h3>
         <br />
+        </p>
+  <p align="center"><strong>Javascript, Html, CSS, Node, Express</strong> </p>
+ <p align="center"> Life Path: Utilized Node.JS and Express to build a API that allows users to input their numerology, user will then recive back a response of their lifepath</p>
         <a target="_blank" href="http://">
-            <img src="https://github.com/flgirl813/portfolio/blob/main/resources/Webp.net-gifmaker%20(1).gif" width="100%" alt="task App"/>
+            <img src="https://github.com/flgirl813/portfolio/blob/main/resources/Webp.net-lifepath.gif" width="100%" alt="task App"/>
         </a>
         <br />
         <p align="center">
@@ -87,15 +93,15 @@
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=88CDD1&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="http://" target="_blank">
+  <a href="https://lifepaths.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=88CDD1&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
-      </p>
-        <p><strong>Javascript, Html, CSS</strong> - Weather Application</p>
-    </td>
+    
+  
     
    
   </tr>
+    </td>
 </table>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flgirl813&" alt="flgirl813" /></p>
