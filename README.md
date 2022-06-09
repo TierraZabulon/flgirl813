@@ -58,7 +58,7 @@
       <h3 align="center">Weather App</h3>
         <br />
       <p align="center"><strong>Javascript, Html, CSS, Weather API, Axios</strong> </p>
- <p align="center"> Utilized...</p>
+ <p align="center"> Weather API...</p>
         <a target="_blank" href="http://">
             <img src="https://github.com/flgirl813/portfolio/blob/main/resources/Webp.net-gifmaker%20(1).gif" width="100%" alt="task App"/>
         </a>
