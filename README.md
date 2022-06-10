@@ -32,7 +32,7 @@
     <td width="25%" valign="top">
       <h3 align="center">TaskDoro</h3>
         <br />
-      <p align="center"><strong>Javascript, Html, CSS, Bootstrap</strong> </p>
+      <p align="center"><strong>Javascript, Html, CSS, Bootstrap</strong></p>
  <p align="center">  Application for keeping track of task</p>
         <a target="_blank" href="http://net">
             <img src="https://github.com/flgirl813/final-project/blob/main/Webp.net-gifmaker.gif" width="100%" alt="task App"/>
