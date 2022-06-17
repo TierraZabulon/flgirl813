@@ -41,12 +41,9 @@
         <p align="center">
           
   <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=88CDD1&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="http://" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=88CDD1&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
+    <span>Website</span> </a>| <a href="https://github.com/" target="_blank"> <span>Repo</span></a>
+   
+  
         
   
     
