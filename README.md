@@ -85,7 +85,7 @@
         <p align="center">
           
  <a href="https://github.com/" target="_blank">
-    <span>Website</span> </a>| <a href="https://github.com/" target="_blank"> <span>Repo</span></a>
+    <span>Website</span> </a>| <a href="https://github.com/flgirl813/lifepath-clientside" target="_blank"> <span>Repo</span></a>
     
   
     
