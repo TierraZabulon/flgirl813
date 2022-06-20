@@ -94,6 +94,6 @@
     </td>
 </table>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flgirl813&show_icons=true&locale=en&layout=compact" alt="flgirl813" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flgirl813&" alt="flgirl813" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flgirl813&" alt="flgirl813" /></p> 
   
   </div>
