@@ -1,7 +1,7 @@
 <div align ="center">
 
 
-![Software Engineer @100Devs](https://github.com/flgirl813/portfolio/blob/main/resources/Tierra%20Zabulon%20(1).png?raw=true)
+
 
 
 
